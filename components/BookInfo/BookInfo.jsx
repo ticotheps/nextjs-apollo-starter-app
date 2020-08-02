@@ -40,7 +40,7 @@ const BookInfo = () => {
 
   const updateBookDetails = () => {
     updateBook({
-      variables: { name: "A Spice Sausage", author: "Anton the Butcher" },
+      variables: { name: "A Spicy Sausage", author: "Anton the Butcher" },
     });
   };
 
